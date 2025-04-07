@@ -59,9 +59,7 @@ Trova supports three types of users:
 ## 🚀 Future Enhancements
 
 - In-app chat between users and sellers  
-- Booking and payment integrations  
 - Travel itinerary planner  
-- Rating and review system for products and locations
 
 ---
 
